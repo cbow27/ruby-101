@@ -1,0 +1,1 @@
+#output of 42 - 8 then return nil because of 'p'

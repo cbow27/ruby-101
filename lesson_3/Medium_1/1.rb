@@ -1,0 +1,1 @@
+10.times{|word| puts (" " * word) + "Flintstones rock!"}
